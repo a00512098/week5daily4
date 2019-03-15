@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week 5 Daily 4</string>
+    <string name="facebook_app_id">491988414268283</string>
+    <string name="fb_login_protocol_scheme">fb491988414268283</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="week_5_day_4">Week 5 Day 4</string>
+    <string name="login">Login</string>
+</resources>
